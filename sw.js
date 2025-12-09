@@ -1,5 +1,5 @@
 const CACHE_NAME = "Riseon-V1";
-const BASE = "/Riseon Games/";
+const BASE = "/Riseon-Games/";
 
 self.addEventListener('install', (event) => {
   event.waitUntil(
