@@ -1,0 +1,19 @@
+{
+  "lang": "de-DE",
+  "name": "Riseon Games",
+  "short_name": "Riseon Games",
+  "description": "Riseon Games on Roblox",
+  "start_url": "/Riseon Games/",
+  "background_color": "#ffffff",
+  "theme_color": "#002453",
+  "orientation": "any",
+  "display": "standalone",
+  "icons": [
+  {
+    "src": "/Riseon Games/icon512.png",
+    "sizes": "512x512",
+    "type": "image/png"
+  }
+]
+
+}
