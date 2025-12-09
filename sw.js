@@ -1,4 +1,4 @@
-const CACHE_NAME = "Riseon-V2";
+const CACHE_NAME = "Riseon-V3";
 const BASE = "/Riseon-Games/";
 
 self.addEventListener('install', (event) => {
