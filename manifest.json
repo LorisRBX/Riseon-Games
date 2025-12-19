@@ -1,16 +1,16 @@
 {
   "lang": "de-DE",
-  "name": "Riseon Games",
-  "short_name": "Riseon Games",
-  "description": "Riseon Games on Roblox",
-  "start_url": "/Riseon-Games/",
+  "name": "Train Sim Germany",
+  "short_name": "TSG",
+  "description": "TSG on Roblox",
+  "start_url": "/Train-Sim-Germany/",
   "background_color": "#ffffff",
-  "theme_color": "#EA0000",
+  "theme_color": "#ff0000",
   "orientation": "any",
   "display": "standalone",
   "icons": [
   {
-    "src": "/Riseon-Games/icon512.png",
+    "src": "/Train-Sim-Germany/icon512.png",
     "sizes": "512x512",
     "type": "image/png"
   }

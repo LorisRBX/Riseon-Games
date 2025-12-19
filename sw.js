@@ -1,5 +1,5 @@
-const CACHE_NAME = "Riseon-V3";
-const BASE = "/Riseon-Games/";
+const CACHE_NAME = "TSG-V1";
+const BASE = "/Train-Sim-Germany/";
 
 self.addEventListener('install', (event) => {
   event.waitUntil(
